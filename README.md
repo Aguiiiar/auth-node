@@ -1,1 +1,1 @@
-# auth-node
+### Repositório de um projeto com intuito de aprender mais sobre autenticação com JWT.
